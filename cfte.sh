@@ -10,4 +10,5 @@ echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code2.sh
 echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code4.sh
 echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code3.sh
 echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code3.sh
-echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code3.sh
+echo "peter love his side chick and test" >> ctfe/welcome-to-lab/code/code3.
+
